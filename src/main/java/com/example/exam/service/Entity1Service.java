@@ -6,7 +6,6 @@ import com.example.exam.repository.Entity2Repository;
 import com.opencsv.CSVReader;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.io.FileReader;
 import java.io.IOException;
 
